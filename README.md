@@ -2,9 +2,7 @@
 
 Overview and cheat sheet of git commands.Includes several categories of commands.
 
-STUFF ADDED TO main
-EXTRA V IMPOARTANT
-
+LINE 5 added in main
 ### Basic Commands
 * `git init` - initialize new local repo
 * `git status` - show status of local working directory
