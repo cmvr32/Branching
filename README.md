@@ -2,6 +2,9 @@
 
 Overview and cheat sheet of git commands.Includes several categories of commands.
 
+NEW STUFF IN newBranch
+V IMPORTANT!
+
 ### Basic Commands
 * `git init` - initialize new local repo
 * `git status` - show status of local working directory
